@@ -1,0 +1,25 @@
+body {
+  background-color: #2A93D5;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#navBar {
+  font-weight: 100;
+}
+
+#navBar .navbar-brand {
+  color: #3DDAD7;
+  font-size: 1.3rem
+}
+
+#navBar .nav-link {
+  color: #EDFAFD;
+}
+
+#navBar .nav-link:hover {
+  color: #3DDAD7;
+}
+
+h2 {
+  color: #AED9DA;
+}
